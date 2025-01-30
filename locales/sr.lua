@@ -1,5 +1,5 @@
 
-Locales['sr'] = {
+return {
   -- global menus
   ['not_enough_in_society']   = 'Nema dovoljno u kompaniji!',
   ['player_cannot_hold']      = 'Nemate dovoljno prostora u inventaru!',

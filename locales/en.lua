@@ -1,4 +1,4 @@
-Locales['en'] = {
+return {
   -- global menus
   ['not_enough_in_society']   = 'there\'s not enough of ~r~that item in the society!',
   ['player_cannot_hold']      = 'you do ~r~not have enough free space in your inventory!',

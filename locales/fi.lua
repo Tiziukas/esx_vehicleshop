@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
   -- global menus
   ['not_enough_in_society']   = 'Firmalla ei ole enempää tätä esinettä varastossa!',
   ['player_cannot_hold']      = 'Sinulla ei ole tarpeeksi vapaata tilaa repussasi!',

@@ -1,4 +1,4 @@
-Locales['it'] = {
+return {
   -- global menus
   ['not_enough_in_society']   = 'la società non n\'è ha abbastanza!',
   ['player_cannot_hold']      = '~r~non hai abbastanza spazio nel tuo inventario!',

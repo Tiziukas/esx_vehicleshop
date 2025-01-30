@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   -- global menus
   ['not_enough_in_society']   = 'nincs elég ~r~tárgyad a vállalkozásban!',
   ['player_cannot_hold']      = '~r~nincs elég helyed a leltárban!',
